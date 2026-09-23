@@ -1,0 +1,6 @@
+{
+  "name": "VISTA BI Studio",
+  "description": "Standalone Business Intelligence Studio connected to Google Sheets with interactive charts, configurable sheet tabs, row ranges, and custom themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
